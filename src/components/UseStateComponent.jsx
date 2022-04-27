@@ -25,6 +25,8 @@ const UseStateComponent = () => {
     phone: '',
     specialRequests: '',
   })
+
+  //   const [epicode, setEpicode] = useState(true)
   // name is going to be the state variable React is going to keep track of
   // setName is a function capable of just assigning a new value to the name state variable (like a setState, but more specific)
 
